@@ -1,8 +1,8 @@
 {
-	"full_name": "Enrique Paredes",
-	"email": "enrique.iknite@gmail.com",
+	"full_name": "Sergey Panfilov",
+	"email": "sergray@gmail.com",
 	"role_name": "Super.Role",
-  "github_user": "iknite",
+    "github_user": "sergray",
 	"repo_name": "ansible-super-role",
 	"short_description": "This Ansible Role infuses antigravity, you are warned",
 	"release_date": "2014-06-12",
